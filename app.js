@@ -33,8 +33,8 @@ app.use(methodOverride("_method"));
 app.engine("ejs", ejsMate);// This tells Express that when rendering files with the .ejs extension, it should use the ejs-mate template engine instead of the default engine.However, ejs-mate enhances the default EJS engine by adding support for things like layout files
 app.use(express.static(path.join(__dirname, "public")));
 
-//const dbUrl = process.env.MONGO_URI;
-const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
+const dbUrl = process.env.MONGO_URI;
+// const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust";
 // console.log(dbUrl); // Log the URI to check it
 
 main()
@@ -46,11 +46,11 @@ main()
     })
 
 async function main() {
-    await mongoose.connect(MONGO_URL);
+    await mongoose.connect(dbUrl);
 }
 
 const store = MongoStore.create({
-    mongoUrl:MONGO_URL,
+    mongoUrl:dbUrl,
     crypto:{
         secret:process.env.SECRET,
     },
