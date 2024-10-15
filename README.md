@@ -2,7 +2,7 @@
 ### Description:
 Wanderlust is a web application that allows users to browse, add, and manage travel listings, including vacation homes, cabins, and unique retreats around the world. Built with Node.js, Express, MongoDB (MongoDB Atlas), and Cloudinary for image hosting.
 
-**Live Demo:** [View the application here](https://wanderlust-3qt2.onrender.com/listings)
+**Website Demo:** [View the application here](https://wanderlust-3qt2.onrender.com/listings)
 
 ## Screenshots
 ![Home Page](./screenshots/homepage.png)
