@@ -9,7 +9,7 @@ Wandernest is a web application that allows users to browse, add, and manage tra
 #### Installation
 #### Usage
 #### Configuration
-#### Contact
+#### Deployment
 
 ## Features
 - View, create, update, and delete travel listings
