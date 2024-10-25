@@ -1,6 +1,6 @@
-# Wanderlust - Travel Listings
+# Wandernest - A Travel Listings
 ### Description:
-Wanderlust is a web application that allows users to browse, add, and manage travel listings, including vacation homes, cabins, and unique retreats around the world. Built with Node.js, Express, MongoDB (MongoDB Atlas), and Cloudinary for image hosting.
+Wandernest is a web application that allows users to browse, add, and manage travel listings, including vacation homes, cabins, and unique retreats around the world. Built with Node.js, Express, MongoDB (MongoDB Atlas), and Cloudinary for image hosting.
 
 **Website Demo:** [View the application here](https://wanderlust-3qt2.onrender.com/listings)
 
@@ -31,7 +31,7 @@ Make sure you have the following accounts and tools:
 ### Steps
 1. Clone the repository:
    
-   git clone https://github.com/Mithun-AM/Wanderlust.git
+   git clone https://github.com/Mithun-AM/Wandernest.git
 
 2. Navigate into the project directory:
    
