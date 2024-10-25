@@ -4,16 +4,6 @@ Wanderlust is a web application that allows users to browse, add, and manage tra
 
 **Website Demo:** [View the application here](https://wanderlust-3qt2.onrender.com/listings)
 
-## Screenshots
-![Home Page](./screenshots/homepage.png)
-*The homepage displays featured travel listings.*
-
-![Map View](./screenshots/mapview.png)
-*Interactive Map showing travel locations using Mapbox.*
-
-![Show page](./screenshots/show.png)
-*Interactive Map showing travel locations using Mapbox.*
-
 ## Table of Contents
 #### Features
 #### Installation
