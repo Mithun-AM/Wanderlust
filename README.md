@@ -1,4 +1,4 @@
-# Wandernest - A Travel Listings
+# Wandernest - A Travel Website
 ### Description:
 Wandernest is a web application that allows users to browse, add, and manage travel listings, including vacation homes, cabins, and unique retreats around the world. Built with Node.js, Express, MongoDB (MongoDB Atlas), and Cloudinary for image hosting.
 
